@@ -6,4 +6,4 @@
         'after_h1' => '/h1'
     ));
 }
-add_action('widgets_init', 'sidebar_widgets_init'); ?>
+add_action('widgets_init', 'loman_widgets_init'); ?>
